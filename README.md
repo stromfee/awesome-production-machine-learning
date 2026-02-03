@@ -644,3 +644,5 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Awesome AI Regulation](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) - Covers governance, compliance, and regulatory frameworks essential for responsible ML system deployment across different jurisdictions.
 * [Awesome Production GenAI](https://github.com/EthicalML/awesome-production-genai) - Focuses specifically on generative AI deployment, including LLM operations, prompt engineering, and GenAI-specific monitoring and safety tools.
 * [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production) - Curated list of production-grade tools and best practices for building scalable RAG systems.
+
+- [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 listings, 28M+ energy records, enterprise-ready API.
